@@ -20,6 +20,6 @@ Kliknutím na sekci přejdete na detailní stránku:
 *Log využití AI nástrojů, evidence odpracovaných hodin jednotlivců a aktuální stav přiřazených úkolů.*
 
 ### [Evidence tvořených dokumentů 📝](dokumenty)
-*Na této stránce budou evidovány všechny dokumenty popisující projekt a jeho stav, a taky dokumenty potřebné pro jednání se zákazníkem*
+*Na této stránce budou evidovány všechny dokumenty popisující projekt a jeho stav, a taky dokumenty potřebné pro jednání se zákazníkem.*
 
 ---
