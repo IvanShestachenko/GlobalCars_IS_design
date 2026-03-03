@@ -1,4 +1,4 @@
-Při pojmenování a nahrávání souborů prosím dodržujte [konvence z moodlu](https://moodle.fel.cvut.cz/mod/page/view.php?id=387946)
+❗❗❗**Při pojmenování a nahrávání souborů prosím dodržujte [konvence z moodlu](https://moodle.fel.cvut.cz/mod/page/view.php?id=387946)** ❗❗❗
 
 ---
 
