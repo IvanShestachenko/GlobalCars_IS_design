@@ -1,6 +1,6 @@
 # 🚗 Projekt: Digitální transformace Global cars, a.s.
 
-Vítejte na hlavní stránce projektové Wiki týmu **Červená skupina**. 
+Vítejte na Wiki stránce týmu **Červená skupina**. 
 
 Cílem našeho projektu je navrhnout informační a procesní sjednocení 9 autonomních poboček společnosti Global cars, a.s. Řešíme implementaci chybějící ICT podpory (CRM, rezervační systém, web) pro zlepšení ekonomické situace firmy v době stagnace.
 
