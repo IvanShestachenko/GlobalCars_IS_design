@@ -1,8 +1,8 @@
 # 🚗 Projekt: Digitální transformace Global cars, a.s.
 
-Vítejte na hlavní stránce projektové Wiki týmu **Skupina Červena**. 
+Vítejte na hlavní stránce projektové Wiki týmu **Červená skupina**. 
 
-**Cílem našeho projektu** je navrhnout informační a procesní sjednocení 9 autonomních poboček společnosti Global cars, a.s. Řešíme implementaci chybějící ICT podpory (CRM, rezervační systém, web) pro zlepšení ekonomické situace firmy v době stagnace.
+Cílem našeho projektu je navrhnout informační a procesní sjednocení 9 autonomních poboček společnosti Global cars, a.s. Řešíme implementaci chybějící ICT podpory (CRM, rezervační systém, web) pro zlepšení ekonomické situace firmy v době stagnace.
 
 ---
 
@@ -10,22 +10,16 @@ Vítejte na hlavní stránce projektové Wiki týmu **Skupina Červena**.
 
 Kliknutím na sekci přejdete na detailní stránku:
 
-### [Nápady a Architektura 💡](napady)
-*Brainstorming, návrhy na sjednocení 9 různých IT systémů, výběr vhodného CRM a rezervačního systému.*
-
 ### [Náš tým 👥](tym)
-*Detailní informace o členech týmu, kontakty a jasné rozdělení rolí (PM, Business Lead, IT Architekt, Analytik, QA).*
+*Detailní informace o členech týmu.*
 
-### [Schůzky a konzultace 📋](schuzky-a-konzultace)
-*Zápisy z interních meetingů (Meeting Minutes) a postřehy z konzultací se zákazníkem / vyučujícím.*
+### [Log využití AI📋](ai-log)
+*Dokumentace způsobu využití AI nástrojů během práce na projektu.*
 
-### [Odvedená práce a úkoly 🗓️🛠️](prace)
+### [Evidence odpracovaných hodin a úkolu 🗓️](hodiny-a-ukoly)
 *Log využití AI nástrojů, evidence odpracovaných hodin jednotlivců a aktuální stav přiřazených úkolů.*
 
-### [Dokument vize a Výstupy 📝](dokument-vize)
-*Úvodní zpráva o stavu projektu (SA), Business Requirements Document, mapování procesů as-is/to-be a evidence všech tvořených dokumentů.*
-
-### [Shrnutí 📚](shrnuti)
-*Manažerské shrnutí (Executive Summary), ekonomické zhodnocení (náklady vs. přínosy) a finální prezentace pro vedení Global cars.*
+### [Evidence tvořených dokumentů 📝](dokumenty)
+*Na této stránce budou evidovány všechny dokumenty popisující projekt a jeho stav, a taky dokumenty potřebné pro jednání se zákazníkem*
 
 ---
