@@ -17,7 +17,7 @@ Kliknutím na sekci přejdete na detailní stránku:
 *Dokumentace způsobu využití AI nástrojů během práce na projektu.*
 
 ### [Evidence odpracovaných hodin a úkolu 🗓️](hodiny-a-ukoly)
-*Log využití AI nástrojů, evidence odpracovaných hodin jednotlivců a aktuální stav přiřazených úkolů.*
+*Evidence odpracovaných hodin jednotlivců a splněných úkolů.*
 
 ### [Evidence tvořených dokumentů 📝](dokumenty)
 *Na této stránce budou evidovány všechny dokumenty popisující projekt a jeho stav, a taky dokumenty potřebné pro jednání se zákazníkem.*
