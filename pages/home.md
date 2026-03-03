@@ -2,7 +2,7 @@
 
 Vítejte na hlavní stránce projektové Wiki týmu **Skupina Červena**. 
 
-[cite_start]**Cílem našeho projektu** je navrhnout informační a procesní sjednocení 9 autonomních poboček společnosti Global cars, a.s.[cite: 10, 11, 15, 19]. [cite_start]Řešíme implementaci chybějící ICT podpory (CRM, rezervační systém, web) pro zlepšení ekonomické situace firmy v době stagnace[cite: 17].
+**Cílem našeho projektu** je navrhnout informační a procesní sjednocení 9 autonomních poboček společnosti Global cars, a.s. Řešíme implementaci chybějící ICT podpory (CRM, rezervační systém, web) pro zlepšení ekonomické situace firmy v době stagnace.
 
 ---
 
