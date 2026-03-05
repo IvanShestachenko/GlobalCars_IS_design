@@ -7,7 +7,7 @@
 | 03.03 | Dokument SA | 3h |
 | 04.03 | Připrava na jednaní | 2h |
 | 04.03 | AI LOG + structura wifi stranky| 2h |
-|| Total: 12h |
+||| Total: 12h |
 
 ---
 
