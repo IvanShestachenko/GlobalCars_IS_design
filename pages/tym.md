@@ -3,6 +3,7 @@
 **Role v projektu:**  
 Projektový manažer  
 Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
+
 **Kontakt:**  
 - Email: plokhmyk@cvut.cz
 
@@ -13,6 +14,7 @@ Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
 **Role v projektu:**  
 Vedoucí analytik  
 Zóna zodpovědnosti: Procesní diagram, business architektura, komunikace.
+
 **Kontakt:**  
 - Email: shestiva@cvut.cz 
 
@@ -23,6 +25,7 @@ Zóna zodpovědnosti: Procesní diagram, business architektura, komunikace.
 **Role v projektu:**  
 Business analytik
 Zóna zodpovědnosti: Prototyp.
+
 **Kontakt:**  
 - Email: bauyryer@cvut.cz
 
@@ -33,6 +36,7 @@ Zóna zodpovědnosti: Prototyp.
 **Role v projektu:**  
 Systémový analytik 
 Zóna zodpovědnosti: BMC, správa týmového GitLabu.
+
 **Kontakt:**  
 - Email: sofindan@cvut.cz
 
