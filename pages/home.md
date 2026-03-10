@@ -22,6 +22,6 @@ Kliknutím na sekci přejdete na detailní stránku:
 ### [Evidence tvořených dokumentů 📝](dokumenty)
 *Na této stránce budou evidovány všechny dokumenty popisující projekt a jeho stav, a taky dokumenty potřebné pro jednání se zákazníkem.*
 
-### [Rizika Projektu 📉] (rizika)
+### [Rizika Projektu 📉](rizika)
 *Na této stránce budou evidovány všechny rizika projektu.*
 ---
