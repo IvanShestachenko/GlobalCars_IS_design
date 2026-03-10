@@ -1,0 +1,14 @@
+---
+title: Rizika Projektu
+---
+### RIZIKA PROJEKTU
+
+Na začátku projektu byla identifikovaná následující zvýšená rizika spojená se specifiky zákazníka:
+
+| Riziko | Dopad | Řešení | Pravd. vzniku | Stav | Odp. osoba | Mitigace rizika | Poznámka |
+|---|---|---|---|---|---|---|---|
+| Neodhadnutá složitost (9 různých IT systémů na pobočkách) | Nedodržení termínu | Jasné vymezení rozsahu (Scope) studie, pravidelné hodnocení postupu | Střední | Aktuální | PM | Pravidelné hodnocení složitosti | Ohrožení rozpočtu, ztráta cca 30% |
+| Špatná součinnost se zákazníkem | Nedodržení termínu | Tlak projektového vedoucího na součinnost | Nízká | Aktuální | Obchodní ředitel | Pravidelné schůzky se zákazníkem | Využít obchodního ředitele |
+| Nečekaný odchod členu týmu | Nedodržení termínu nebo neschopnost vypracovat návrh řešení v úplném požadovaném rozsahu | Definování postupu přerozdělení zón zodpovědnosti v týmu, domluva se zákazníkem (vyučujícím) o možnosti škálování požadovaného obsahu práce v závislosti na kapacitě lidských zdrojů v týmu (zřejmě platí pouze pro akademický případ) nebo posunutí termínu | Střední | Nastalo | PM | Důraz na sehranost a mezilidské vztahy v týmu, odměna ve formě 5 studijních kreditů v případě úspěšného absolvování předmětu, jehož neoddělitelnou součástí je společné dokončení práce na projektu | Jedná se o náhlou mimořádnou situaci, která by se měla stát objektem plnohodnotného změnového řízení při svém nastání |
+| Ztráta komunikace v týmu (jiné školní povinnosti) | Nedodržení termínu | Průběžné sledování úkolů, individuální schůzky s jednotlivými členy týmu s účelem zvýšení jejich zapojenosti a porozumění kontextu společné práce na projektu | Střední | Nastalo | PM | Pravidelné týmové schůzky, probírání a udržování společného kontextu práce na projektu | Průběžně monitorovat a starat se o úroveň spolupráce a porozumění kontextu společné práce na projektu jednotlivými členy týmu |
+| Odhalení nebo vznik nových kritických faktorů fungování společnosti zákazníka; požadavky na zásadní změny ve finální fázi vypracování návrhu řešení ze strany zákazníka | Nedodržení termínu, část hotové práce se bude muset přepsat nebo vyhodit | Konkrétní řešení rizika by melo být nalezeno v důsledku změnového řízení věnovaného této záležitosti, obecně se ale jedná o částečné předefinování návrhu řešení a domluvu se zákazníkem o posunutí termínu předání hotového návrhu řešení. | Nízká | Aktuální | Business analytik | Kvalitní počáteční analýza firmy zákazníka, především na společných jednáních se zákazníkem. Těsná spolupráce se zákazníkem a zároveň průběžný monitoring situace uvnitř společnosti zákazníka a kolem ní - na relevantních segmentech trhu | Jedná se o náhlou mimořádnou situaci, která by se měla stát objektem plnohodnotného změnového řízení při svém nastání |
