@@ -1,5 +1,5 @@
 # 👤 Mykhailo Plokhin
-![photo_2025-07-20_23-29-03](uploads/8e481fc7bcfcbe84950afbfc035790b2/photo_2025-07-20_23-29-03.jpg){width=338 height=600}
+![photo_2025-07-20_23-29-03](uploads/8e481fc7bcfcbe84950afbfc035790b2/photo_2025-07-20_23-29-03.jpg){width=200 height=200}
 **Role v projektu:**  
 Projektový manažer  
 Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
