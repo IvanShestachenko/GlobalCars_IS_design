@@ -1,3 +1,6 @@
+---
+title: Hodiny a Ukoly
+---
 ## Mykhailo Plokhin
 | Datum | Úkol | Čas |
 |-------|------|----------|
