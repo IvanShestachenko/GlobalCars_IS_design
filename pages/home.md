@@ -2,7 +2,13 @@
 
 Vítejte na Wiki stránce týmu **Červená skupina**. 
 
-Cílem našeho projektu je navrhnout informační a procesní sjednocení 9 autonomních poboček společnosti Global cars, a.s. Řešíme implementaci chybějící ICT podpory (CRM, rezervační systém, web) pro zlepšení ekonomické situace firmy v době stagnace.
+## 📋 O projektu
+
+Cílem projektu je zpracování návrhu řešení (NŘ) pro informační a procesní sjednocení celé sítě autosalonů. 
+
+* **Výchozí stav:** Firma během 2 let skokově vyrostla akvizicemi na celkem 9 poboček v ČR. Ty fungují zcela autonomně – mají rozdílné pracovní postupy, oddělené IT systémy i dodavatele.
+* **Problém:** Kvůli extrémnímu důrazu na osobní péči firma podcenila IT infrastrukturu. Chybí centrální CRM, moderní web a rezervační systém pro doplňkové půjčování aut. V době ekonomické stagnace tato roztříštěnost zhoršuje hospodaření.
+* **Cíl řešení:** Odstranit technologický a procesní chaos. Sjednotit vnitřní procesy a zavést centrální systémy, což pomůže vrátit firmu k ekonomické prosperitě.
 
 ---
 
