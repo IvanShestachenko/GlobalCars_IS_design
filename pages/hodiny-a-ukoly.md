@@ -7,7 +7,7 @@
 | 03.03 | Vytvoření dokumentu SA | 3h |
 | 04.03 | Vytvoření dokumentu přípravy na 1.jednání | 2h |
 | 04.03 | AI LOG + struktura wiki stránky | 2h |
-| 09.03 | Wiki stránky oprava role + Rizika projektu | 1h |
+| 09.03 | Wiki stránky: oprava role + Rizika projektu | 1h |
 ||| Total: 13h |
 
 ---
