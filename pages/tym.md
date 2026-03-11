@@ -1,8 +1,7 @@
 # 👤 Mykhailo Plokhin
 
-**Role v projektu:**  
-Projektový manažer  
-Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
+**Role v projektu:** Projektový manažer  
+**Zóna zodpovědnosti:** Vedení projektu, údržba AI Log,komunikace.
 
 **Kontakt:**  
 - Email: plokhmyk@cvut.cz
@@ -22,7 +21,7 @@ Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
 # 👤 Yernur Bauyrzhanuly
 
 **Role v projektu:** Business analytik
-**Zóna zodpovědnosti:** Prototyp.
+**Zóna zodpovědnosti:** Prototyp.            
 
 **Kontakt:**  
 - Email: bauyryer@cvut.cz
@@ -32,7 +31,7 @@ Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
 # 👤 Daniil Sofin
 
 **Role v projektu:** Systémový analytik
-**Zóna zodpovědnosti:** BMC, správa týmového GitLabu.
+**Zóna zodpovědnosti:** BMC, správa týmového GitLabu.               
 
 **Kontakt:**  
 - Email: sofindan@cvut.cz
@@ -41,7 +40,7 @@ Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
 
 # 👤 Ivan Turko
 **Role v projektu:** Quality assurance
-**Zóna zodpovědnosti:** Use-Case.
+**Zóna zodpovědnosti:** Use-Case.                    
 
 **Kontakt:**  
 - Email: turkoiv2@cvut.cz
