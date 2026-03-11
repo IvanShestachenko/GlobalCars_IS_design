@@ -24,6 +24,7 @@ Zóna zodpovědnosti: Procesní diagram, business architektura, komunikace.
 
 **Role v projektu:**  
 Business analytik
+
 Zóna zodpovědnosti: Prototyp.
 
 **Kontakt:**  
@@ -34,7 +35,8 @@ Zóna zodpovědnosti: Prototyp.
 # 👤 Daniil Sofin
 
 **Role v projektu:**  
-Systémový analytik 
+Systémový analytik
+ 
 Zóna zodpovědnosti: BMC, správa týmového GitLabu.
 
 **Kontakt:**  
@@ -45,6 +47,8 @@ Zóna zodpovědnosti: BMC, správa týmového GitLabu.
 # 👤 Ivan Turko
 **Role v projektu:**  
 Quality assurance
+
+Zóna zodpovědnosti: Use-Case.
 
 **Kontakt:**  
 - Email: turkoiv2@cvut.cz
