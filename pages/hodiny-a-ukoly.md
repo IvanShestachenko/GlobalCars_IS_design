@@ -11,7 +11,8 @@ title: Hodiny a Ukoly
 | 04.03 | Vytvoření dokumentu přípravy na 1.jednání | 2h |
 | 04.03 | AI LOG + struktura wiki stránky | 2h |
 | 09.03 | Wiki stránky: oprava role + Rizika projektu | 1h |
-||| Total: 13h |
+| 11.03 | Upravá přípravy na 2.jednání | 1h |
+||| Total: 14h |
 
 ---
 
@@ -25,7 +26,8 @@ title: Hodiny a Ukoly
 | 03.03 | Úpravy dokumentu A4 a Ganttova diagramu | 2.5h |
 | 04.03 | Vytvoření dokumentu přípravy na 1.jednání | 3h |
 | 05.03 | Vytvoření dokumentu přípravy na 1.jednání | 2h |
-||| Total: 14h |
+| 11.03 | Upravá přípravy na 2.jednání | 1h |
+||| Total: 15h |
 
 ---
 
@@ -35,7 +37,8 @@ title: Hodiny a Ukoly
 |-------|------|----------|
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
 | 03.03 | Document A4 | 2h |
-||| Total: 2.5h |
+| 09.03 | Vytvoření dokumentu přípravy na 2.jednání |1h |
+||| Total: 3.5h |
 ---
 
 ## Daniil Sofin
