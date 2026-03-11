@@ -11,9 +11,8 @@ Zóna zodpovědnosti: Vedení projektu, údržba AI Log,komunikace.
 
 # 👤 Ivan Shestachenko
 
-**Role v projektu:**  
-Vedoucí analytik  
-Zóna zodpovědnosti: Procesní diagram, business architektura, komunikace.
+**Role v projektu:** Vedoucí analytik  
+**Zóna zodpovědnosti:** Procesní diagram, business architektura, komunikace.
 
 **Kontakt:**  
 - Email: shestiva@cvut.cz 
@@ -22,9 +21,8 @@ Zóna zodpovědnosti: Procesní diagram, business architektura, komunikace.
 
 # 👤 Yernur Bauyrzhanuly
 
-**Role v projektu:**  
-Business analytik
-Zóna zodpovědnosti: Prototyp.
+**Role v projektu:** Business analytik
+**Zóna zodpovědnosti:** Prototyp.
 
 **Kontakt:**  
 - Email: bauyryer@cvut.cz
@@ -33,9 +31,8 @@ Zóna zodpovědnosti: Prototyp.
 
 # 👤 Daniil Sofin
 
-**Role v projektu:**  
-Systémový analytik
-Zóna zodpovědnosti: BMC, správa týmového GitLabu.
+**Role v projektu:** Systémový analytik
+**Zóna zodpovědnosti:** BMC, správa týmového GitLabu.
 
 **Kontakt:**  
 - Email: sofindan@cvut.cz
@@ -43,9 +40,8 @@ Zóna zodpovědnosti: BMC, správa týmového GitLabu.
 ---
 
 # 👤 Ivan Turko
-**Role v projektu:**  
-Quality assurance
-Zóna zodpovědnosti: Use-Case.
+**Role v projektu:** Quality assurance
+**Zóna zodpovědnosti:** Use-Case.
 
 **Kontakt:**  
 - Email: turkoiv2@cvut.cz
