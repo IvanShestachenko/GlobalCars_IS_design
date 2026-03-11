@@ -44,7 +44,8 @@ title: Hodiny a Ukoly
 |-------|------|----------|
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
 | 03.03 | Vytvoření gantt diagramu a založení/úprava wiki-stránek projektu | 2.5h |
-||| Total: 3h |
+| 11.03 | Vytvoření dokumentu zápis z 1. jednání, úprava gitlab stránek | 2.5h |
+||| Total: 5.5h |
 
 ---
 
