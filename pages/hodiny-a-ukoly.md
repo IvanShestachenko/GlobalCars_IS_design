@@ -12,7 +12,8 @@ title: Hodiny a Ukoly
 | 04.03 | AI LOG + struktura wiki stránky | 2h |
 | 09.03 | Wiki stránky: oprava role + Rizika projektu | 1h |
 | 11.03 | Upravá přípravy na 2.jednání | 1h |
-||| Total: 14h |
+| 04.03 | AI LOG | 1h |
+||| Total: 15h |
 
 ---
 
