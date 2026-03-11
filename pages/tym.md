@@ -24,7 +24,6 @@ Zóna zodpovědnosti: Procesní diagram, business architektura, komunikace.
 
 **Role v projektu:**  
 Business analytik
-
 Zóna zodpovědnosti: Prototyp.
 
 **Kontakt:**  
@@ -36,7 +35,6 @@ Zóna zodpovědnosti: Prototyp.
 
 **Role v projektu:**  
 Systémový analytik
- 
 Zóna zodpovědnosti: BMC, správa týmového GitLabu.
 
 **Kontakt:**  
@@ -47,7 +45,6 @@ Zóna zodpovědnosti: BMC, správa týmového GitLabu.
 # 👤 Ivan Turko
 **Role v projektu:**  
 Quality assurance
-
 Zóna zodpovědnosti: Use-Case.
 
 **Kontakt:**  
