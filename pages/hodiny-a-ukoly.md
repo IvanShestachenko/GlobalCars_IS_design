@@ -55,4 +55,8 @@ title: Hodiny a Ukoly
 
 ## Ivan Turko
 
-TBD
+| Datum | Úkol | Čas |
+|-------|------|----------|
+| 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
+| 11.03 | Seznámení se a kontrola vytvoreneho dokumentu - QA, sanity check. |2h |
+||| Total: 2.5h |
