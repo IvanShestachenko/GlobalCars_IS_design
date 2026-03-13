@@ -58,5 +58,5 @@ title: Hodiny a Ukoly
 | Datum | Úkol | Čas |
 |-------|------|----------|
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
-| 11.03 | Seznámení se a kontrola vytvorуch dokumentu (as of now) - QA, sanity check. |2h |
+| 11.03 | Seznámení se a kontrola vytvořených dokumentů (as of now) - QA, sanity check. |2h |
 ||| Total: 2.5h |
