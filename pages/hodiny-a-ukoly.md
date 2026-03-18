@@ -13,7 +13,8 @@ title: Hodiny a Ukoly
 | 09.03 | Wiki stránky: oprava role + Rizika projektu | 1h |
 | 11.03 | Upravá přípravy na 2.jednání | 1h |
 | 11.03 | AI LOG | 1h |
-||| Total: 15h |
+| 18.03 | BMC | 1h |
+||| Total: 16h |
 
 ---
 
@@ -28,7 +29,8 @@ title: Hodiny a Ukoly
 | 04.03 | Vytvoření dokumentu přípravy na 1.jednání | 3h |
 | 05.03 | Vytvoření dokumentu přípravy na 1.jednání | 2h |
 | 11.03 | Upravá přípravy na 2.jednání | 1h |
-||| Total: 15h |
+| 18.03 | BMC | 0.5 h |
+||| Total: 15.5h |
 
 ---
 
