@@ -33,5 +33,4 @@
 
 ---
 
-## BMC[0730-BMC-AUTA-2025-03-18.pdf](uploads/967532230d7776eb6f2af7eeb5cfc21e/0730-BMC-AUTA-2025-03-18.pdf)
 
