@@ -29,8 +29,10 @@ title: Hodiny a Ukoly
 | 04.03 | Vytvoření dokumentu přípravy na 1.jednání | 3h |
 | 05.03 | Vytvoření dokumentu přípravy na 1.jednání | 2h |
 | 11.03 | Upravá přípravy na 2.jednání | 1h |
+| 17.03 | Vytvoření dokumentu zápis z 2. jednání | 3h |
 | 18.03 | BMC | 0.5 h |
-||| Total: 15.5h |
+| 18.03 | Vytvoření dokumentu zápis z 2. jednání | 2h |
+||| Total: 20.5h |
 
 ---
 
