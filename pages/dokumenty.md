@@ -38,3 +38,9 @@
 ---
 
 ## Prezentace
+
+---
+
+## BMC
+
+([0730-BMC-AUTA-2025-03-18.pdf](uploads/7c80853044a358ef91d1ed928cf7d108/0730-BMC-AUTA-2025-03-18.pdf))
