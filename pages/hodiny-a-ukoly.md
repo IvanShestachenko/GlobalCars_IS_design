@@ -14,7 +14,7 @@ title: Hodiny a Ukoly
 | 11.03 | Upravá přípravy na 2.jednání | 1h |
 | 11.03 | AI LOG | 1h |
 | 18.03 | BMC | 1h |
-| 18.03 | AI LOG |2.5|
+| 18.03 | AI LOG + struktura wiki stránky "AI analýza"|2.5|
 ||| Total: 18.5h |
 
 ---
