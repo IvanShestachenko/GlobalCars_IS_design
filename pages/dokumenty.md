@@ -41,6 +41,7 @@
 ---
 
 ## Prezentace
+![0730-ProcesniDiagram-AUTA-2026-03-18.svg](uploads/c5bdffd6a12a86793c3ce6ac68bdb44d/0730-ProcesniDiagram-AUTA-2026-03-18.svg){width=900 height=450}
 
 ---
 
