@@ -35,7 +35,7 @@ title: Hodiny a Ukoly
 | 18.03 | Úpravy BMC | 0.5h |
 | 19.03 | Vytvoření základu procesního diagramu |  3h |
 | 19.03 | Příprava prezentace AAR | 1h |
-| 22.03 | Úpravy chyb procesního diagramu, tvorba podkladů pro předání práce kolegovi |  0.5h |
+| 22.03 | Úprava chyb procesního diagramu, tvorba podkladů pro předání práce kolegovi |  0.5h |
 ||| Total: 25h |
 
 ---
