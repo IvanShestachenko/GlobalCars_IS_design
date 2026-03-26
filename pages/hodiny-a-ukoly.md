@@ -35,6 +35,7 @@ title: Hodiny a Ukoly
 | 18.03 | Úpravy BMC | 0.5h |
 | 19.03 | Vytvoření základu procesního diagramu |  3h |
 | 19.03 | Příprava prezentace AAR | 1h |
+| 22.03 | Úpravy chyb procesního diagramu, tvorba podkladů pro předání práce kolegovi |  3h |
 ||| Total: 24.5h |
 
 ---
@@ -45,8 +46,9 @@ title: Hodiny a Ukoly
 |-------|------|----------|
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
 | 03.03 | Document A4 | 2h |
-| 09.03 | Vytvoření dokumentu přípravy na 2.jednání |1h |
-||| Total: 3.5h |
+| 09.03 | Vytvoření dokumentu přípravy na 2.jednání | 1h |
+| 25.03 | Společná tvorba dokumentu přípravy na 3.jednání | 3h |
+||| Total: 6.5h |
 ---
 
 ## Daniil Sofin
@@ -56,7 +58,8 @@ title: Hodiny a Ukoly
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
 | 03.03 | Vytvoření gantt diagramu a založení/úprava wiki-stránek projektu | 2.5h |
 | 11.03 | Vytvoření dokumentu zápis z 1. jednání, úprava gitlab stránek | 2.5h |
-||| Total: 5.5h |
+| 25.03 | Společná tvorba dokumentu přípravy na 3.jednání | 2h |
+||| Total: 7.5h |
 
 ---
 
