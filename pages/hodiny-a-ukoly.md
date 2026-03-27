@@ -64,10 +64,14 @@ title: Hodiny a Ukoly
 
 ---
 
-## Ivan Turko
+<del>
+
+## Ivan Turko 🚑 *(Odešel do západu slunce po nečekaném setkání s Hyundaiem)*
 
 | Datum | Úkol | Čas |
 |-------|------|----------|
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
-| 11.03 | Seznámení se a kontrola vytvořených dokumentů (as of now) - QA, sanity check |2h |
+| 11.03 | Seznámení se a kontrola vytvořených dokumentů (as of now) - QA, sanity check | 2h |
 ||| Total: 2.5h |
+
+</del>
