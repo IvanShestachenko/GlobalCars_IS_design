@@ -66,7 +66,7 @@ title: Hodiny a Ukoly
 
 <del>
 
-## Ivan Turko 🚑 *(Odešel do západu slunce po nečekaném setkání s Hyundaiem)*
+## Ivan Turko 🚑 *(Srazil ho Hyundai)*
 
 | Datum | Úkol | Čas |
 |-------|------|----------|
