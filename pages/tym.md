@@ -37,11 +37,11 @@
 - Email: sofindan@cvut.cz
 
 ---
-
-# 👤 Ivan Turko
+<del>
+# 👤 Ivan Turko *(Srazil ho Hyundai)
 **Role v projektu:** Quality assurance                                                     
 **Zóna zodpovědnosti:** Use-Case.                    
 
 **Kontakt:**  
 - Email: turkoiv2@cvut.cz
-
+</del>
