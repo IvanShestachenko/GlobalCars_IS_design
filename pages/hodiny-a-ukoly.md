@@ -60,7 +60,8 @@ title: Hodiny a Ukoly
 | 03.03 | Vytvoření gantt diagramu a založení/úprava wiki-stránek projektu | 2.5h |
 | 11.03 | Vytvoření dokumentu zápis z 1. jednání, úprava gitlab stránek | 2.5h |
 | 25.03 | Společné vytvoření dokumentu přípravy na 3.jednání | 2h |
-||| Total: 7.5h |
+| 08.04 | Vytvoření dokumentu přípravy na 4.jednání, aktualizace gitlab stránek | 3.5h |
+||| Total: 11h |
 
 ---
 
