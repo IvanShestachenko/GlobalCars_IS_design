@@ -29,7 +29,7 @@ title: Hodiny a Ukoly
 | 03.03 | Úpravy dokumentu A4 a Ganttova diagramu | 2.5h |
 | 04.03 | Vytvoření dokumentu přípravy na 1.jednání | 3h |
 | 05.03 | Vytvoření dokumentu přípravy na 1.jednání | 2h |
-| 11.03 | Upravá přípravy na 2.jednání | 1h |
+| 11.03 | Úprava dokumentu přípravy na 2.jednání | 1h |
 | 17.03 | Vytvoření dokumentu zápis z 2. jednání | 2h |
 | 18.03 | Vytvoření dokumentu zápis z 2. jednání | 3h |
 | 18.03 | Úpravy BMC | 0.5h |
@@ -37,6 +37,7 @@ title: Hodiny a Ukoly
 | 19.03 | Příprava prezentace AAR | 1h |
 | 22.03 | Opravování chyb v procesním diagramu podle zpětné vazby z prezentace| 0.2h |
 | 22.03 | Tvorba podkladů pro předání práce na procesním diagramu kolegovi | 0.3h |
+| 09.04 | Úprava dokumentu přípravy na 4.jednání | 1.5h |
 ||| Total: 25h |
 
 ---
