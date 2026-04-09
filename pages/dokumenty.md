@@ -28,6 +28,8 @@
 
 [0730-Priprava-AUTA-2026-03-26.pdf](uploads/440bddd106495d2e55cdd2a3c71e6ee9/0730-Priprava-AUTA-2026-03-26.pdf)
 
+[0730-Priprava-AUTA-2026-04-09.pdf](uploads/f99fb81cfce5b899a1be8f49d3c42306/0730-Priprava-AUTA-2026-04-09.pdf)
+
 ---
 
 ## Zápisy z jednání
