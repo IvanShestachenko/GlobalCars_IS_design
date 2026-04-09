@@ -38,7 +38,7 @@ title: Hodiny a Ukoly
 | 22.03 | Opravování chyb v procesním diagramu podle zpětné vazby z prezentace| 0.2h |
 | 22.03 | Tvorba podkladů pro předání práce na procesním diagramu kolegovi | 0.3h |
 | 09.04 | Úprava dokumentu přípravy na 4.jednání | 1.5h |
-||| Total: 25h |
+||| Total: 26.5h |
 
 ---
 
