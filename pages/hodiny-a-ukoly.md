@@ -49,8 +49,12 @@ title: Hodiny a Ukoly
 | 02.03 | Seznámení se s výchozím stavem zákazníka | 0.5h |
 | 03.03 | Document A4 | 2h |
 | 09.03 | Vytvoření dokumentu přípravy na 2.jednání | 1h |
+| 18.03 | Konzultace s AI a tvorba AI Logu (brainstorming procesů) | 1h |
 | 25.03 | Společné vytvoření dokumentu přípravy na 3.jednání | 3h |
-||| Total: 6.5h |
+| 28.03 | Vypracování Zápisu z jednání č.3 (analýza nahrávky a strukturování) | 2h |
+| 28.03 | Vypracování analýzy nefunkčních požadavků (FURPS+) do Studie | 0.5h |
+| 12.04 | Vypracování Zápisu z jednání č.4 (analýza nahrávky a strukturování) | 2h |
+||| Total: 12h |
 ---
 
 ## Daniil Sofin
