@@ -40,6 +40,8 @@
 
 [0730-Zapis-AUTA-2026-03-26.pdf](uploads/1911ee7688dd63b67eca6047b2d18041/0730-Zapis-AUTA-2026-03-26.pdf)
 
+[0730-Zapis-AUTA-2026-04-09.pdf](uploads/6453243fba2dd8a0e7d23c35798f8b5a/0730-Zapis-AUTA-2026-04-09.pdf)
+
 ---
 
 ## Úvodní studie
