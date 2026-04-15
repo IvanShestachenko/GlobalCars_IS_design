@@ -19,7 +19,8 @@ title: Hodiny a Ukoly
 | 14.04 | Závěrečna konzultace | 0.5h |
 | 14.04 | Založení dokumentu Úvodní studie:definování struktury a formátu | 1h |
 | 14.04 | Vypracování kapitol F1-F3, H4 a J | 2h |
-| 15.04 | Úprava kapitol E1-E4, H1-H2, G4, H7 | 2.5 |
+| 15.04 | Úprava kapitol E1-E4, H1-H2,| 0.5h |
+| 15.04 | Vypracování kapitol  G4, H7 | 2.0h |
 ||| Total: 29.5h | 
 
 ---
