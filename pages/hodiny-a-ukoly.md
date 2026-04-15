@@ -15,7 +15,11 @@ title: Hodiny a Ukoly
 | 11.03 | AI LOG | 1h |
 | 18.03 | BMC | 1h |
 | 18.03 | AI LOG + struktura wiki stránky "AI analýza"| 2.5h |
-||| Total: 18.5h |
+| 14.04 | Analýza projektu a příprava dotazů na závěrečnou konzultaci | 5h |
+| 14.04 | Závěrečna konzultace | 0.5h |
+| 14.04 | Založení dokumentu Úvodní studie:definování struktury a formátu | 1h |
+| 14.04 | Vypracování kapitol F1-F3, H4 a J | 2h |
+||| Total: 27.0h | 
 
 ---
 
@@ -38,7 +42,10 @@ title: Hodiny a Ukoly
 | 22.03 | Opravování chyb v procesním diagramu podle zpětné vazby z prezentace| 0.2h |
 | 22.03 | Tvorba podkladů pro předání práce na procesním diagramu kolegovi | 0.3h |
 | 09.04 | Úprava dokumentu přípravy na 4.jednání | 1.5h |
-||| Total: 26.5h |
+| 14.04 | Analýza projektu a příprava dotazů na závěrečnou konzultaci | 5h |
+| 14.04 | Závěrečna konzultace | 0.5h |
+| 14.04 | Rozdělení ukolu | 0.5h |
+||| Total: 32.5h |
 
 ---
 
