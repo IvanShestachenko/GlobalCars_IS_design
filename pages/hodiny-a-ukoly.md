@@ -21,7 +21,8 @@ title: Hodiny a Ukoly
 | 14.04 | Vypracování kapitol F1-F3, H4 a J | 2h |
 | 15.04 | Úprava kapitol E1-E4, H1-H2,| 0.5h |
 | 15.04 | Vypracování kapitol  G4, H7 | 2.0h |
-||| Total: 29.5h | 
+| 15.04 | Založení a vypracování prezentace| 2.0h |
+||| Total: 31.5h | 
 
 ---
 
