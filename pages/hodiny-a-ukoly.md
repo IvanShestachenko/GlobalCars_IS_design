@@ -64,7 +64,8 @@ title: Hodiny a Ukoly
 | 28.03 | Vypracování Zápisu z jednání č.3 (analýza nahrávky a strukturování) | 2h |
 | 28.03 | Vypracování analýzy nefunkčních požadavků (FURPS+) do Studie | 0.5h |
 | 12.04 | Vypracování Zápisu z jednání č.4 (analýza nahrávky a strukturování) | 2h |
-||| Total: 12h |
+| 15.04 | Vypracování kapitol Úvodní studie:E1-E4, H1-H2 | 4h |
+||| Total: 16h |
 ---
 
 ## Daniil Sofin
