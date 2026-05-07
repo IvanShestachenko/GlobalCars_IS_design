@@ -83,7 +83,7 @@ title: Hodiny a Ukoly
 | 25.03 | Společné vytvoření dokumentu přípravy na 3.jednání | 2h |
 | 08.04 | Vytvoření dokumentu přípravy na 4.jednání, aktualizace gitlab stránek | 3.5h |
 | 15.04 | Společná práce na 1. verzi dokumentu ÚS | 7h |
-||| Total: 11h |
+||| Total: 18h |
 
 ---
 
