@@ -22,7 +22,8 @@ title: Hodiny a Ukoly
 | 15.04 | Úprava kapitol E1-E4, H1-H2,| 0.5h |
 | 15.04 | Vypracování kapitol  G4, H7 | 2.0h |
 | 15.04 | Založení a vypracování prezentace| 3.0h |
-||| Total: 32.5h | 
+| 06.05 | Úpravy kapitol projektových rizik v dokumentu ÚS | 2.0h |
+||| Total: 34.5h | 
 
 ---
 
@@ -47,8 +48,9 @@ title: Hodiny a Ukoly
 | 09.04 | Úprava dokumentu přípravy na 4.jednání | 1.5h |
 | 14.04 | Analýza projektu a příprava dotazů na závěrečnou konzultaci | 5h |
 | 14.04 | Závěrečna konzultace | 0.5h |
-| 14.04 | Rozdělení ukolu | 0.5h |
-||| Total: 32.5h |
+| 14.04 | Rozdělení ukolů, organizace práce | 1.5h |
+| 07.05 | Vypracování první verze dokumentu ÚS, příprava prezentace, zpracování zpětně vazby k ÚS, rozdělení úkolů, organizace práce, kontrola výstupů koleg v týmu, vypracování druhé verze dokumentu ÚS (rozdělit do položek) | 20h |
+||| Total: 53.5h |
 
 ---
 
@@ -65,7 +67,9 @@ title: Hodiny a Ukoly
 | 28.03 | Vypracování analýzy nefunkčních požadavků (FURPS+) do Studie | 0.5h |
 | 12.04 | Vypracování Zápisu z jednání č.4 (analýza nahrávky a strukturování) | 2h |
 | 15.04 | Vypracování kapitol Úvodní studie:E1-E4, H1-H2 | 4h |
-| 05.05 | Práce s financemi v Excelu | 10h |
+| 04.05 | Práce s financemi v Excelu | 4h |
+| 05.05 | Práce s financemi v Excelu | 4h |
+| 05.05 | Úpravy financí v Excelu podle poskytnuté zpětné vazby | 2h |
 ||| Total: 26h |
 ---
 
