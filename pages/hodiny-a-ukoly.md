@@ -24,8 +24,8 @@ title: Hodiny a Ukoly
 | 15.04 | Založení a vypracování prezentace| 3.0h |
 | 06.05 | Úpravy kapitol projektových rizik v dokumentu ÚS | 2.0h |
 | 09.05 | Vývoj front-end prototypu ERP systému(Next.js) | 6.0h |
-| 10.05 | Prototyp |3.0h |
-||| Total: 46.0h | 
+| 10.05 | Prototyp |6.0h |
+||| Total: 49.0h | 
 
 ---
 
