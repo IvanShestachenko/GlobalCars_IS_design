@@ -55,11 +55,14 @@ title: Hodiny a Ukoly
 | 16.04 | Vypracování první verze dokumentu ÚS | 3h |
 | 16.04 | Příprava prezentace ÚS | 1.5h |
 | 27.04 | Zpracování zpětné vazby k první verzi ÚS | 1.5h |
-| 27.04 | Rozdělení úkolů, organizace práce na vypracování druhé verze dokumentu ÚS | 1.5h |
+| 27.04 | Rozdělení úkolů, organizace práce na vypracování druhé verze ÚS | 1.5h |
 | 05.05 | Kontrola výstupů koleg v týmu | 0.5h |
 | 05.05 | Vypracování druhé verze dokumentu ÚS | 1.5h |
 | 06.05 | Vypracování druhé verze dokumentu ÚS | 6h |
-||| Total: 54h |
+| 06.05 | Záverečné úpravy dokumentu ÚS podle zpětné vazby | 1h |
+| 09.05 | Slovní návrh prototypu pro kolegy | 1.5h |
+| 11.05 | Záverečné úpravy dokumentu ÚS podle zpětné vazby | 1.5h |
+||| Total: 59h |
 
 ---
 
