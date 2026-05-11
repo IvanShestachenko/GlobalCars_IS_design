@@ -51,8 +51,15 @@ title: Hodiny a Ukoly
 | 14.04 | Analýza projektu a příprava dotazů na závěrečnou konzultaci | 5h |
 | 14.04 | Závěrečna konzultace | 0.5h |
 | 14.04 | Rozdělení ukolů, organizace práce | 1.5h |
-| 07.05 | Vypracování první verze dokumentu ÚS, příprava prezentace, zpracování zpětně vazby k ÚS, rozdělení úkolů, organizace práce, kontrola výstupů koleg v týmu, vypracování druhé verze dokumentu ÚS (rozdělit do položek) | 20h |
-||| Total: 53.5h |
+| 15.04 | Vypracování první verze dokumentu ÚS | 5h |
+| 16.04 | Vypracování první verze dokumentu ÚS | 3h |
+| 16.04 | Příprava prezentace ÚS | 1.5h |
+| 27.04 | Zpracování zpětné vazby k první verzi ÚS | 1.5h |
+| 27.04 | Rozdělení úkolů, organizace práce na vypracování druhé verze dokumentu ÚS | 1.5h |
+| 05.05 | Kontrola výstupů koleg v týmu | 0.5h |
+| 05.05 | Vypracování druhé verze dokumentu ÚS | 1.5h |
+| 06.05 | Vypracování druhé verze dokumentu ÚS | 6h |
+||| Total: 54h |
 
 ---
 
