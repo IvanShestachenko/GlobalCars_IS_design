@@ -91,7 +91,7 @@ title: Hodiny a Ukoly
 ||| Total: 33h |
 ---
 <del>
-## Daniil Sofin
+## Daniil Sofin 🚑 *(Srazila ho kapacita NTK)*
 
 | Datum | Úkol | Čas |
 |-------|------|----------|
