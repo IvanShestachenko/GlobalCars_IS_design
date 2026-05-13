@@ -24,8 +24,10 @@ title: Hodiny a Ukoly
 | 15.04 | Založení a vypracování prezentace| 3.0h |
 | 06.05 | Úpravy kapitol projektových rizik v dokumentu ÚS | 2.0h |
 | 09.05 | Vývoj front-end prototypu ERP systému(Next.js) | 6.0h |
-| 10.05 | Úprava prototypu, komunikace s tymem |6.0h |
-||| Total: 49.0h | 
+| 10.05 | Úprava prototypu, komunikace s tymem | 6.0h |
+| 13.05 | Definování zbyvajících úprav prototypu | 0.5h |
+| 13.05 | Založení a vypracování prezentace Prototypu | 3.5h |
+||| Total: 53.0h | 
 
 ---
 
@@ -86,7 +88,7 @@ title: Hodiny a Ukoly
 | 05.05 | Úpravy financí v Excelu podle poskytnuté zpětné vazby | 2h |
 ||| Total: 26h |
 ---
-
+<del>
 ## Daniil Sofin
 
 | Datum | Úkol | Čas |
@@ -98,7 +100,7 @@ title: Hodiny a Ukoly
 | 08.04 | Vytvoření dokumentu přípravy na 4.jednání, aktualizace gitlab stránek | 3.5h |
 | 15.04 | Společná práce na 1. verzi dokumentu ÚS | 7h |
 ||| Total: 18h |
-
+</del>
 ---
 
 <del>
