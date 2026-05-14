@@ -89,7 +89,7 @@ title: Hodiny a Ukoly
 | 05.05 | Práce s financemi v Excelu | 4h |
 | 05.05 | Úpravy financí v Excelu podle poskytnuté zpětné vazby | 2h |
 | 13.05 | Úprava prototypu od 10.05 do 14.05, vyvoj feature | 6h |
-| 13.05 | Příprava k prezentace | 1h |
+| 13.05 | Příprava na prezentaci | 1h |
 ||| Total: 33h |
 ---
 <del>
