@@ -106,6 +106,7 @@ title: Hodiny a Ukoly
 | 15.04 | Společná práce na 1. verzi dokumentu ÚS | 7h |
 ||| Total: 18h |
 </del>
+
 ---
 
 <del>
