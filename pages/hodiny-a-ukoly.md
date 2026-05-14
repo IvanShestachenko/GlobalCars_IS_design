@@ -92,9 +92,8 @@ title: Hodiny a Ukoly
 | 13.05 | Příprava na prezentaci | 1h |
 ||| Total: 33h |
 ---
-<del>
 
-## Daniil Sofin 🚑 *(Srazila ho kapacita NTK)*
+## Daniil Sofin
 
 | Datum | Úkol | Čas |
 |-------|------|----------|
@@ -104,8 +103,9 @@ title: Hodiny a Ukoly
 | 25.03 | Společné vytvoření dokumentu přípravy na 3.jednání | 2h |
 | 08.04 | Vytvoření dokumentu přípravy na 4.jednání, aktualizace gitlab stránek | 3.5h |
 | 15.04 | Společná práce na 1. verzi dokumentu ÚS | 7h |
-||| Total: 18h |
-</del>
+| 07.05 | Návrh části procesního diagramu | 2.5h |
+| 13.05 | Doplnění procesního diagramu | 1h |
+||| Total: 21.5h |
 
 ---
 
