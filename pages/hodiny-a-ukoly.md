@@ -66,7 +66,9 @@ title: Hodiny a Ukoly
 | 11.05 | Záverečné úpravy dokumentu ÚS podle zpětné vazby | 1.5h |
 | 11.05 | Definování zbyvajících úprav prototypu, vytváření úkolů pro kolegy | 0.5h |
 | 13.05 | Definování zbyvajících úprav prototypu, vytváření úkolů pro kolegy | 0.5h |
-||| Total: 60.0h |
+| 14.05 | Příprava prezentace prototypu | 2h |
+| 14.05 | Dopracování procesního diagramu | 0.5h |
+||| Total: 62.5h |
 
 ---
 
