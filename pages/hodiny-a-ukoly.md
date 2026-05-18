@@ -105,7 +105,8 @@ title: Hodiny a Ukoly
 | 15.04 | Společná práce na 1. verzi dokumentu ÚS | 7h |
 | 07.05 | Návrh části procesního diagramu | 2.5h |
 | 13.05 | Doplnění procesního diagramu | 1h |
-||| Total: 21.5h |
+| 19.05 | Revize výstupů, generovaných LLM nástroji / Doplnění AI logu | 2.5h |
+||| Total: 24h |
 
 ---
 
