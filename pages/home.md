@@ -19,6 +19,10 @@ Kliknutím na sekci přejdete na detailní stránku:
 ### [Náš tým 👥](tym)
 *Detailní informace o členech týmu.*
 
+### [ Individuální zhodnocení práce 🏅](hodnoceni)
+*Detailní zhodnocení práce jednotlivých členů
+týmu na projektu vedoucim.*
+
 ### [Log využití AI📋](ai-log)
 *Dokumentace způsobu využití AI nástrojů během práce na projektu.*
 
