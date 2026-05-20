@@ -27,7 +27,8 @@ title: Hodiny a Ukoly
 | 10.05 | Úprava prototypu, komunikace s tymem | 6.0h |
 | 13.05 | Definování zbyvajících úprav prototypu | 0.5h |
 | 13.05 | Založení a vypracování prezentace Prototypu | 3.5h |
-||| Total: 53.0h | 
+| 20.05 | Individuální zhodnocení práce jednotlivých členů týmu na projektu | 1.5h |
+||| Total: 54.5h | 
 
 ---
 
