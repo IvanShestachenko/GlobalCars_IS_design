@@ -28,7 +28,8 @@ title: Hodiny a Ukoly
 | 13.05 | Definování zbyvajících úprav prototypu | 0.5h |
 | 13.05 | Založení a vypracování prezentace Prototypu | 3.5h |
 | 20.05 | Individuální zhodnocení práce jednotlivých členů týmu na projektu | 1.5h |
-||| Total: 54.5h | 
+| 21.05 | Dopracování AI Audit Logu | 1h |
+||| Total: 55.5h | 
 
 ---
 
@@ -69,7 +70,8 @@ title: Hodiny a Ukoly
 | 13.05 | Definování zbyvajících úprav prototypu, vytváření úkolů pro kolegy | 0.5h |
 | 14.05 | Příprava prezentace prototypu | 2h |
 | 14.05 | Dopracování procesního diagramu | 0.5h |
-||| Total: 62.5h |
+| 21.05 | Organizace práce, dopracování AI Audit Logu | 2.5h |
+||| Total: 65h |
 
 ---
 
@@ -91,7 +93,9 @@ title: Hodiny a Ukoly
 | 05.05 | Úpravy financí v Excelu podle poskytnuté zpětné vazby | 2h |
 | 13.05 | Úprava prototypu od 10.05 do 14.05, vyvoj feature | 6h |
 | 13.05 | Příprava na prezentaci | 1h |
-||| Total: 33h |
+| 21.05 | Dopracování AI Audit Logu | 2h |
+
+||| Total: 35h |
 ---
 
 ## Daniil Sofin
