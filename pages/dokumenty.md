@@ -51,6 +51,8 @@
 ## Prezentace
 
 [0730-ProcesniDiagram-AUTA-2026-03-18.pdf](uploads/3862500319f774af0b16a09705934778/0730-ProcesniDiagram-AUTA-2026-03-18.pdf)
+
+
 [AI_Audit_log.pdf](uploads/5ffec0a26591a23dceedc5fcbfd867ea/AI_Audit_log.pdf)
 
 ---
