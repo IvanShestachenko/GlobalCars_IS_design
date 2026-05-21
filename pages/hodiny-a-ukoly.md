@@ -94,7 +94,6 @@ title: Hodiny a Ukoly
 | 13.05 | Úprava prototypu od 10.05 do 14.05, vyvoj feature | 6h |
 | 13.05 | Příprava na prezentaci | 1h |
 | 21.05 | Dopracování AI Audit Logu | 2h |
-
 ||| Total: 35h |
 ---
 
