@@ -64,9 +64,6 @@
 
 ## Prezentace
 
-
-### Prezentace Úvodní studie
-
 [0730-PREZENTACE-AUTA-2026-04-16.pdf](uploads/85864cf424e070b948fa47d90fa51762/0730-PREZENTACE-AUTA-2026-04-16.pdf)
 
 ---
@@ -82,3 +79,9 @@
 ## BMC
 
 [0730-BMC-AUTA-2026-03-18.pdf](uploads/7c80853044a358ef91d1ed928cf7d108/0730-BMC-AUTA-2025-03-18.pdf)
+
+---
+
+## AI Audit Log
+
+[0730-AiAuditLog-AUTA-2026-05-24.pdf](uploads/4989c305ec1c5c46f462138f39c00ab6/0730-AiAuditLog-AUTA-2026-05-24.pdf)
