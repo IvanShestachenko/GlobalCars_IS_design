@@ -8,7 +8,7 @@
 
 ---
 
-## SA (Úvodní a finální)
+## SA
 
 
 ### Úvodní
@@ -85,3 +85,5 @@
 ## AI Audit Log
 
 [0730-AiAuditLog-AUTA-2026-05-24.pdf](uploads/4989c305ec1c5c46f462138f39c00ab6/0730-AiAuditLog-AUTA-2026-05-24.pdf)
+
+---
