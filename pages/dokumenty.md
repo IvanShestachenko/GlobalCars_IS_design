@@ -75,6 +75,8 @@
 
 [0730-ProcesniDiagram-AUTA-2026-03-18.pdf](uploads/3862500319f774af0b16a09705934778/0730-ProcesniDiagram-AUTA-2026-03-18.pdf)
 
+![0730-ProcesniDiagram-AUTA-2026-05-21.svg](uploads/1b5084cef384a9a60f36d009cb456bd5/0730-ProcesniDiagram-AUTA-2026-05-21.svg){width=900 height=374}
+
 ---
 
 ## BMC
