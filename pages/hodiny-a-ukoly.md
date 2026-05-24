@@ -70,7 +70,7 @@ title: Hodiny a Ukoly
 | 13.05 | Definování zbyvajících úprav prototypu, vytváření úkolů pro kolegy | 0.5h |
 | 14.05 | Příprava prezentace prototypu | 2h |
 | 14.05 | Dopracování procesního diagramu | 0.5h |
-| 21.05 | Organizace práce, práce AI Audit Logu | 2.5h |
+| 21.05 | Organizace práce, AI Audit Logu, příprava na závěrečnou prezentaci AAR | 2.5h |
 | 24.05 | Finalizace výstupů projektu - AI Audit Log, finální SA, odevzdání, zavěrečná aktualizace wiki stránek | 5h |
 ||| Total: 70h |
 
