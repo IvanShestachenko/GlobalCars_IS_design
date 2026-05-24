@@ -11,12 +11,12 @@
 ## SA (Úvodní a finální)
 
 
-### Úvodní verze
+### Úvodní
 
 [0730-SA-AUTA-2026-03-03.pdf](uploads/0f16b0dba47e122beb5b939b72acc533/0730-SA-AUTA-2026-03-03.pdf)
 
 
-### Finální verze
+### Finální
 
 ---
 
@@ -45,6 +45,16 @@
 ---
 
 ## Úvodní studie
+
+
+### První verze
+
+[0730-US-AUTA-2026-04-16.pdf](uploads/4925b3c39f3a3eb66fa9693f180b811f/0730-US-AUTA-2026-04-16.pdf) [0730-CENIK-AUTA-2026-04-16.xlsx](uploads/649538c9bbe13b6fe46a10fe5c521634/0730-CENIK-AUTA-2026-04-16.xlsx)
+
+
+### Finální verze
+
+[0730-US-AUTA-FINAL.pdf](uploads/4898e63a1ba7acd623cfd8affb05b92b/0730-US-AUTA-FINAL.pdf)[0730-CENIK-AUTA-2026-05-07.xlsx](uploads/f93c89e1588539cf6658ec9ea6e96afb/0730-CENIK-AUTA-2026-05-07.xlsx)
 
 ---
 
