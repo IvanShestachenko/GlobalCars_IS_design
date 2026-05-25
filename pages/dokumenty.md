@@ -64,9 +64,9 @@
 
 ## Prototyp
 
-**Zdrojový kod aplikace prototypu (GitHub repozitář):** https://github.com/TheRainHub/ISP-APP
+Zdrojový kod aplikace prototypu (GitHub repozitář): https://github.com/TheRainHub/ISP-APP
 
-**Videozáznam průchodu flow prototypu (Google Drive .mp4):** https://drive.google.com/file/d/15INi3CCuZBjcDYJtMxxDxd7TSKRZ01iN/view?usp=sharing
+Videozáznam průchodu flow prototypu (Google Drive .mp4): https://drive.google.com/file/d/15INi3CCuZBjcDYJtMxxDxd7TSKRZ01iN/view?usp=sharing
 
 ---
 
