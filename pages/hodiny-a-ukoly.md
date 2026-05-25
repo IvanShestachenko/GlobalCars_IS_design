@@ -72,9 +72,9 @@ title: Hodiny a Ukoly
 | 14.05 | Dopracování procesního diagramu | 0.5h |
 | 21.05 | Organizace práce, AI Audit Log, příprava na prezentaci AAR | 2.5h |
 | 24.05 | Finalizace výstupů projektu - AI Audit Log | 4h |
-| 24.05 | Finalizace výstupů projektu - finální SA | 0.5h |
+| 24.05 | Finalizace výstupů projektu - finální SA | 2.5h |
 | 24.05 | Finalizace výstupů projektu - závěrečná aktualizace wiki stránek | 0.5h |
-||| Total: 70h |
+||| Total: 72h |
 
 ---
 
