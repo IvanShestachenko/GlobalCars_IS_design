@@ -18,6 +18,8 @@
 
 ### Finální
 
+[0730-SA-AUTA-FINAL.pdf](uploads/a1e23f610c3929f139a84e11de346f1d/0730-SA-AUTA-FINAL.pdf)
+
 ---
 
 ## Přípravy na jednání
