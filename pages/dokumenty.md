@@ -62,6 +62,12 @@
 
 ---
 
+##Prototyp
+
+**Zdrojový kod aplikace prototypu (GitHub repozitář):** https://github.com/TheRainHub/ISP-APP
+
+**Videozáznam průchodu flow prototypu (Google Drive .mp4)**
+
 ## Prezentace
 
 [0730-PREZENTACE-AUTA-2026-04-16.pdf](uploads/85864cf424e070b948fa47d90fa51762/0730-PREZENTACE-AUTA-2026-04-16.pdf)
