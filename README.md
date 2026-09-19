@@ -177,10 +177,9 @@ The reengineered vehicle service process features:
 - Post-service feedback form.
 - And more.
 
-The reengineered process is illustrated by the BPMN 2.0 chart below:
+The reengineered process is illustrated by the BPMN 2.0 diagram below:
 
-[![CLICK TO VIEW HIGH-RES](https://img.shields.io/badge/CLICK_TO_VIEW_HIGH--RES-555555?style=for-the-badge&logo=camunda&logoColor=FF6A00)](uploads/0730-ProcesniDiagram-AUTA-2026-05-21.png)
-[![CAMUNDA MODELER](https://img.shields.io/badge/CAMUNDA_MODELER-FF6A00?style=for-the-badge)](https://modeler.camunda.io/share/8adf8ccf-61b5-4e5e-ac0b-5813c810a954)
+[![CLICK TO VIEW HIGH-RES - CAMUNDA MODELER](https://img.shields.io/badge/CLICK_TO_VIEW_HIGH--RES-CAMUNDA_MODELER-FF6A00?style=for-the-badge&logo=camunda&logoColor=FF6A00&labelColor=555555)](https://modeler.camunda.io/share/8adf8ccf-61b5-4e5e-ac0b-5813c810a954)
 
 [![Reengineered Process Model](uploads/0730-ProcesniDiagram-AUTA-2026-05-21.png)](uploads/0730-ProcesniDiagram-AUTA-2026-05-21.png)
 
@@ -195,7 +194,7 @@ To demonstrate how the reengineered vehicle service process works within the new
 
 Below is a recording of the full walkthrough flow of the prototype:
 
-https://github.com/user-attachments/assets/6eb48ef1-583d-4762-8894-ec0538d749a6
+https://github.com/user-attachments/assets/cee54821-5a8c-44a6-8bc5-31cba4ad4834
 
 <p align="center"><em>Figure 8: Functional Prototype Flow Walkthrough</em></p>
 
