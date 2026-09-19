@@ -82,3 +82,37 @@ Within the project, our team operated in the role of **Enterprise Solutions, s.r
 
 ---
 
+## Client Stakeholder Consultations
+
+The primary objective of the stakeholder consultations was to develop a deep domain understanding of the client's business, identify operational pain points directly from personnel across multiple organizational levels, map core business processes, and get the answers to all relevant questions required to engineer an optimal solution design covering the needs and nuances of the client's business.
+
+To ensure real-world analytical training, the roles of client stakeholders were simulated by our course instructors, **Ing. Jan Kočí, Ph.D.** and **Ing. Pavel Náplava, Ph.D.** In each session, they strictly maintained the realistic information scope, perspective, and operational domain knowledge of the assigned role, requiring our team to ask questions that were relevant to each interviewee's sphere of competence.
+
+Each consultation followed a formal protocol: our team produced an advance preparation document (*Příprava na jednání*) outlining key topics and hypotheses, and concluded with an official meeting record (*Zápis z jednání*) to register the client's statements and requirements without subjective assumptions.
+
+| Consultation | Client Stakeholder (Role) | Focus Area | Deliverables |
+|:---|:---|:---|:---|
+| **Consultation 1**<br>*(05.03.2026)* | **Commercial Director**<br>*(Jan Kočí)* | • Strategic vision, dealership network expansion history, and family-business governance<br>• Executive rationale for branch autonomy vs. systemic impact on profitability<br>• Commercial priorities, network-wide stagnation, and target transformation objectives | 📄 [Preparation Brief](uploads/0730-Priprava-AUTA-2026-03-05-1.pdf)<br>📝 [Meeting Record](uploads/0730-Zapis-AUTA-2026-03-05.pdf) |
+| **Consultation 2**<br>*(12.03.2026)* | **Branch Manager (Ostrava)**<br>*(Jan Kočí)* | • Daily regional operations, local staff coordination, and branch autonomy limits<br>• Operational pain points: decentralized parts purchasing, lack of shared inventory, and scheduling friction<br>• Branch personnel digital readiness, change appetite, and local efficiency metrics | 📄 [Preparation Brief](uploads/0730-Priprava-AUTA-2026-03-12.pdf)<br>📝 [Meeting Record](uploads/0730-Zapis-AUTA-2026-03-12.pdf) |
+| **Consultation 3**<br>*(26.03.2026)* | • **Service Advisor (Ostrava)**<br>*(Jan Kočí)*<br><br>• **Deputy Head of Sales (Ostrava)**<br>*(Pavel Náplava)* | • **Sales:** Dealership sales routines, B2B/B2C client tracking, and CRM customer profile needs<br>• **Service:** Frontline vehicle intake, repair booking friction, and customer communication bottlenecks<br>• **Workshop:** Diagnostic bay handoff, mechanic tablet interface requirements, and customer extra-work approval | 📄 [Preparation Brief](uploads/0730-Priprava-AUTA-2026-03-26.pdf)<br>📝 [Meeting Record](uploads/0730-Zapis-AUTA-2026-03-26.pdf) |
+| **Consultation 4**<br>*(09.04.2026)* | **Branch Manager (Ostrava)**<br>*(Jan Kočí)* | • Practical review of TO-BE system architecture and proposed workflow feasibility at branch level<br>• Validation of technician incentive bonus formulas and workshop tablet integration<br>• Financial verification: local hardware budgeting, staff training rollout, and pilot deployment | 📄 [Preparation Brief](uploads/0730-Priprava-AUTA-2026-04-09.pdf)<br>📝 [Meeting Record](uploads/0730-Zapis-AUTA-2026-04-09.pdf) |
+
+---
+
+## <a id="is-solution-design"></a>IS Solution Design (Úvodní studie)
+
+The **IS Solution Design (Úvodní studie)** represents the master deliverable and comprehensive final report of the project. It begins with a detailed baseline analysis of the client's current operational state, followed by a complete evaluation of all aspects of the proposed solution and its implementation — covering structural and architectural design, fulfillment of functional and non-functional requirements (FURPS+), project schedule, risk management, financial calculations.
+
+📄 **Final Report Document (Full Master Deliverable):** [`Solution-Design-Report-Final.pdf`](Solution-Design-Report-Final.pdf)
+
+---
+
+### Report Structure
+
+The complete study spans over 40 pages and is systematically structured into diagnostic, architectural, requirements engineering, schedule, risk, and financial chapters:
+
+[![Solution Design Final Report - Contents](uploads/solution-design-final-report-contents.png)](uploads/solution-design-final-report-contents.png)
+
+<p align="center"><em>Figure 2: Solution Design Final Report — Table of Contents</em></p>
+
+---
