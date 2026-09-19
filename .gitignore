@@ -9,3 +9,7 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+.idea/
+.DS_Store
+__pycache__/
+build_readme.py
