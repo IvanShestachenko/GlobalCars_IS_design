@@ -159,3 +159,32 @@ Presented below is the calculation table of man-hours required for module config
 📊 **Complete Financial Analysis Spreadsheet:** [`0730-CENIK-AUTA-2026-05-07.xlsx`](uploads/0730-CENIK-AUTA-2026-05-07.xlsx)
 
 ---
+
+## <a id="process-engineering"></a><a id="process-mapping"></a>Process Engineering - BPMN 2.0
+
+The reengineered vehicle service process features:
+
+- Customer booking form with vehicle make/model, damage or requested service description, and photo upload.
+- Intake technician interface to accept reservation requests or return them for clarification.
+- CRM module with customer profiles and previous visit history.
+- Critical ERP module to check and plan mechanic, parts, and equipment availability and offer available time slots.
+- Spare parts ordering and inventory checks.
+- Reservation dispatch to specific mechanics.
+- Vehicle photo documentation upon intake at the workshop.
+- Mechanic task assignments and timers to track efficiency and reward top performers.
+- Dynamic order expansion sent directly to the customer for approval if extra repairs are needed.
+- Loyalty program for returning customers.
+- Post-service feedback form.
+- And more.
+
+The reengineered process is illustrated by the BPMN 2.0 chart below:
+
+[![CLICK TO VIEW HIGH-RES](https://img.shields.io/badge/CLICK_TO_VIEW_HIGH--RES-555555?style=for-the-badge&logo=camunda&logoColor=FF6A00)](uploads/0730-ProcesniDiagram-AUTA-2026-05-21.png)
+[![CAMUNDA MODELER](https://img.shields.io/badge/CAMUNDA_MODELER-FF6A00?style=for-the-badge)](https://modeler.camunda.io/share/8adf8ccf-61b5-4e5e-ac0b-5813c810a954)
+
+[![Reengineered Process Model](uploads/0730-ProcesniDiagram-AUTA-2026-05-21.png)](uploads/0730-ProcesniDiagram-AUTA-2026-05-21.png)
+
+<p align="center"><em>Figure 7: Reengineered Vehicle Service Process Model (BPMN 2.0)</em></p>
+
+
+---
