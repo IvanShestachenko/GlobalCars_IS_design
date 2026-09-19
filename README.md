@@ -116,3 +116,46 @@ The complete study spans over 40 pages and is systematically structured into dia
 <p align="center"><em>Figure 2: Solution Design Final Report — Table of Contents</em></p>
 
 ---
+
+### Key Highlights
+
+#### SWOT Analysis and Strategy
+Based on the conducted SWOT analysis, the project adopts a **MIN-MAX (Turnaround)** strategy. The evaluation revealed critical operational weaknesses across the dealership network — branch isolation, manual paperwork, and no centralized inventory or CRM — which directly threaten company profitability. The priority is to eliminate these internal bottlenecks first, establishing a solid operational baseline to capture market opportunities, improve margins, and strengthen competitive position:
+
+[![SWOT Analysis](uploads/swot_analysis.png)](uploads/swot_analysis.png)
+
+<p align="center"><em>Figure 3: SWOT Analysis Matrix — Global cars, a.s.</em></p>
+
+<br>
+
+#### Modular System Architecture
+As our team is operating in the role of external IT contractor (**Enterprise Solutions, s.r.o.**), the proposed solution centers on the shipment of our company's established modular enterprise software product. The system architecture distinguishes between a standard **Core module package** included under the **baseline license** (highlighted in green in the diagram) and advanced functional modules licensed and delivered separately. Each module is customized to the client's operational workflows, with historical data migrated from existing legacy tools as needed. The final agreed modular architecture tailored to Global cars, a.s. is illustrated below:
+
+[![Modular Architecture](uploads/module_architecture.png)](uploads/module_architecture.png)
+
+<p align="center"><em>Figure 4: Proposed IS Modular Architecture (Core modules in green)</em></p>
+
+<br>
+
+#### Project Harmonogram
+The project realization schedule is structured into distinct delivery phases: requirements mapping, system design, implementation, testing, staff training, branch rollout, and ongoing support. Each stage is scheduled around the client's operational capacity and designated availability windows, ensuring a seamless transition and minimal disruption to daily dealership operations. The schedule is illustrated in the Gantt chart below:
+
+[![Project Harmonogram](uploads/project_harmonogram.png)](uploads/project_harmonogram.png)
+
+<p align="center"><em>Figure 5: Project Realization Gantt Chart</em></p>
+
+<br>
+
+#### Financial Analysis
+
+A comprehensive financial analysis model was constructed to evaluate project feasibility and return on investment. The calculation covers core software licensing, contractor implementation man-hours across delivery phases, ongoing support, and expected operational savings from optimized dealership and workshop business processes.
+
+Presented below is the calculation table of man-hours required for module configuration tailored to the client's requirements across project phases, as a part of the complete financial analysis spreadsheet:
+
+[![Module Configuration Man-Hours by Phase (Financial Model)](uploads/financial_analysis_core_manhours.png)](uploads/financial_analysis_core_manhours.png)
+
+<p align="center"><em>Figure 6: Module Configuration Man-Hours by Phase (Part of the Complete Financial Analysis)</em></p>
+
+📊 **Complete Financial Analysis Spreadsheet:** [`0730-CENIK-AUTA-2026-05-07.xlsx`](uploads/0730-CENIK-AUTA-2026-05-07.xlsx)
+
+---
