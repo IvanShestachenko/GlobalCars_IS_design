@@ -199,9 +199,7 @@ https://github.com/user-attachments/assets/6eb48ef1-583d-4762-8894-ec0538d749a6
 
 <p align="center"><em>Figure 8: Functional Prototype Flow Walkthrough</em></p>
 
-- 📂 **Prototype Source Code:** [`prototype-app/`](./prototype-app)
-- 💾 **Local Video File:** [`uploads/0730-PruchodFlowPrototypu-AUTA-2026-05-14.mp4`](uploads/0730-PruchodFlowPrototypu-AUTA-2026-05-14.mp4)
-- ☁️ **Watch on Google Drive:** [Google Drive Mirror](https://drive.google.com/file/d/15INi3CCuZBjcDYJtMxxDxd7TSKRZ01iN/view?usp=sharing)
+📂 **Prototype Source Code:** [`prototype-app/`](./prototype-app)
 
 ---
 
