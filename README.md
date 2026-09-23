@@ -109,7 +109,7 @@ The **IS Solution Design (Úvodní studie)** represents the master deliverable a
 
 ### Report Structure
 
-The complete study spans over 40 pages and is systematically structured into diagnostic, architectural, requirements engineering, schedule, risk, and financial chapters:
+The complete study spans over 40 pages and covers such topics of analysis as diagnostic, architectural, requirements engineering, schedule, risk, financial, and more:
 
 [![Solution Design Final Report - Contents](uploads/solution-design-final-report-contents.png)](uploads/solution-design-final-report-contents.png)
 
